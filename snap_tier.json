@@ -1,0 +1,1178 @@
+{
+ "tiers": [
+  {
+   "tier": "Tier 1",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/",
+     "card_name": "Angela"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mojo/",
+     "card_name": "Mojo"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bishop/",
+     "card_name": "Bishop"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mystique/",
+     "card_name": "Mystique"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/rogue/",
+     "card_name": "Rogue"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/the-punisher/",
+     "card_name": "The Punisher"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wolfsbane/",
+     "card_name": "Wolfsbane"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/jubilee/",
+     "card_name": "Jubilee"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mister-negative/",
+     "card_name": "Mister Negative"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iron-man/",
+     "card_name": "Iron Man"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/magik/",
+     "card_name": "Magik"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sera/",
+     "card_name": "Sera"
+    }
+   ],
+   "name": "Negative Serotonin",
+   "pool": [
+    {
+     "pool_med": "1x Collection Level 1-14"
+    },
+    {
+     "pool_med": "2x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "1x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "6x Collection Level 486+ (Pool 3)"
+    },
+    {
+     "pool_med": "2x Starter Card"
+    }
+   ],
+   "cost_med": "3.5",
+   "power_med": "1.8"
+  },
+  {
+   "tier": "Tier 1"
+  },
+  {
+   "tier": "Tier 1",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/angel/",
+     "card_name": "Angel"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/the-hood/",
+     "card_name": "The Hood"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/yondu/",
+     "card_name": "Yondu"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bucky-barnes/",
+     "card_name": "Bucky Barnes"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/carnage/",
+     "card_name": "Carnage"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/deathlok/",
+     "card_name": "Deathlok"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/killmonger/",
+     "card_name": "Killmonger"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wave/",
+     "card_name": "Wave"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/rescue/",
+     "card_name": "Rescue"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/",
+     "card_name": "America Chavez"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/leader/",
+     "card_name": "Leader"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/death/",
+     "card_name": "Death"
+    }
+   ],
+   "name": "Death Wave",
+   "pool": [
+    {
+     "pool_med": "5x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "2x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "5x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "3.4",
+   "power_med": "3.8"
+  },
+  {
+   "tier": "Tier 1"
+  },
+  {
+   "tier": "Tier 1",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/ant-man/",
+     "card_name": "Ant-Man"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lady-sif/",
+     "card_name": "Lady Sif"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mojo/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mysterio/",
+     "card_name": "Mysterio"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/okoye/",
+     "card_name": "Okoye"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bishop/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/maximus/",
+     "card_name": "Maximus"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sword-master/",
+     "card_name": "Sword Master"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/ghost-rider/",
+     "card_name": "Ghost Rider"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sera/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    }
+   ],
+   "name": "Sera Miracle",
+   "pool": [
+    {
+     "pool_med": "5x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "1x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "5x Collection Level 486+ (Pool 3)"
+    },
+    {
+     "pool_med": "1x Recruit Season"
+    }
+   ],
+   "cost_med": "2.9",
+   "power_med": "3.9"
+  },
+  {
+   "tier": "Tier 1"
+  },
+  {
+   "tier": "Tier 2",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/gambit/",
+     "card_name": "Gambit"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/ironheart/",
+     "card_name": "Ironheart"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lockjaw/",
+     "card_name": "Lockjaw"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wolfsbane/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/devil-dinosaur/",
+     "card_name": "Devil Dinosaur"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/jubilee/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mister-negative/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wong/",
+     "card_name": "Wong"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iron-man/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/magik/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/white-tiger/",
+     "card_name": "White Tiger"
+    }
+   ],
+   "name": "Mister Negative",
+   "pool": [
+    {
+     "pool_med": "2x Collection Level 1-14"
+    },
+    {
+     "pool_med": "2x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "1x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "5x Collection Level 486+ (Pool 3)"
+    },
+    {
+     "pool_med": "1x Recruit Season"
+    },
+    {
+     "pool_med": "1x Starter Card"
+    }
+   ],
+   "cost_med": "3.8",
+   "power_med": "1.3"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/ebony-maw/",
+     "card_name": "Ebony Maw"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/nightcrawler/",
+     "card_name": "Nightcrawler"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+     "card_name": "Mister Fantastic"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wave/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/jubilee/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sandman/",
+     "card_name": "Sandman"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/captain-marvel/",
+     "card_name": "Captain Marvel"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/klaw/",
+     "card_name": "Klaw"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/white-tiger/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/doctor-doom/",
+     "card_name": "Doctor Doom"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/leader/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/odin/",
+     "card_name": "Odin"
+    }
+   ],
+   "name": "Sandman Lockdown",
+   "pool": [
+    {
+     "pool_med": "4x Collection Level 1-14"
+    },
+    {
+     "pool_med": "1x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "3x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "4x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "4.1",
+   "power_med": "3.7"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/blade/",
+     "card_name": "Blade"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/invisible-woman/",
+     "card_name": "Invisible Woman"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lady-sif/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/black-cat/",
+     "card_name": "Black Cat"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/moon-knight/",
+     "card_name": "Moon Knight"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sword-master/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/ghost-rider/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/hellcow/",
+     "card_name": "Hellcow"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/giganto/",
+     "card_name": "Giganto"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/hela/",
+     "card_name": "Hela"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/magneto/",
+     "card_name": "Magneto"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/the-infinaut/",
+     "card_name": "The Infinaut"
+    }
+   ],
+   "name": "Hela Discard",
+   "pool": [
+    {
+     "pool_med": "3x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "1x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "8x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "3.8",
+   "power_med": "7.1"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/colleen-wing/",
+     "card_name": "Colleen Wing"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lady-sif/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/morbius/",
+     "card_name": "Morbius"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/swarm/",
+     "card_name": "Swarm"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/the-collector/",
+     "card_name": "The Collector"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/gambit/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mystique/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sword-master/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/dracula/",
+     "card_name": "Dracula"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wong/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/magik/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/apocalypse/",
+     "card_name": "Apocalypse"
+    }
+   ],
+   "name": "Discard Combo",
+   "pool": [
+    {
+     "pool_med": "3x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "3x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "6x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "3.2",
+   "power_med": "2.7"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 2"
+  },
+  {
+   "tier": "Tier 3",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/nova/",
+     "card_name": "Nova"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/armor/",
+     "card_name": "Armor"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bucky-barnes/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/colossus/",
+     "card_name": "Colossus"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/daredevil/",
+     "card_name": "Daredevil"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/cosmo/",
+     "card_name": "Cosmo"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/deathlok/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/green-goblin/",
+     "card_name": "Green Goblin"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/warpath/",
+     "card_name": "Warpath"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/hobgoblin/",
+     "card_name": "Hobgoblin"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/professor-x/",
+     "card_name": "Professor X"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/destroyer/",
+     "card_name": "Destroyer"
+    }
+   ],
+   "name": "Destroyer",
+   "pool": [
+    {
+     "pool_med": "1x Heroes for Hire"
+    },
+    {
+     "pool_med": "5x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "3x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "2x Collection Level 486+ (Pool 3)"
+    },
+    {
+     "pool_med": "1x Recruit Season"
+    }
+   ],
+   "cost_med": "3.2",
+   "power_med": "2.7"
+  },
+  {
+   "tier": "Tier 3"
+  },
+  {
+   "tier": "Tier 3"
+  },
+  {
+   "tier": "Tier 3",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/human-torch/",
+     "card_name": "Human Torch"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iceman/",
+     "card_name": "Iceman"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iron-fist/",
+     "card_name": "Iron Fist"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/korg/",
+     "card_name": "Korg"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/the-hood/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/beast/",
+     "card_name": "Beast"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/black-widow/",
+     "card_name": "Black Widow"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/cloak/",
+     "card_name": "Cloak"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/falcon/",
+     "card_name": "Falcon"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bishop/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    }
+   ],
+   "name": "Bounce Disrupt",
+   "pool": [
+    {
+     "pool_med": "5x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "2x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "5x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "2",
+   "power_med": "2.3"
+  },
+  {
+   "tier": "Tier 3"
+  },
+  {
+   "tier": "Tier 3"
+  },
+  {
+   "tier": "Tier 4",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/human-torch/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iron-fist/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/cloak/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/dagger/",
+     "card_name": "Dagger"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/forge/",
+     "card_name": "Forge"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/kraven/",
+     "card_name": "Kraven"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/multiple-man/",
+     "card_name": "Multiple Man"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/doctor-strange/",
+     "card_name": "Doctor Strange"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/hulkbuster/",
+     "card_name": "Hulkbuster"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/vulture/",
+     "card_name": "Vulture"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/heimdall/",
+     "card_name": "Heimdall"
+    }
+   ],
+   "name": "Movement",
+   "pool": [
+    {
+     "pool_med": "8x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "2x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "2x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "2.8",
+   "power_med": "3.5"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/ant-man/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/ebony-maw/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/quinjet/",
+     "card_name": "Quinjet"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/armor/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/colossus/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/goose/",
+     "card_name": "Goose"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lizard/",
+     "card_name": "Lizard"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mister-fantastic/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mystique/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wong/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/spectrum/",
+     "card_name": "Spectrum"
+    }
+   ],
+   "name": "Wong Ongoing",
+   "pool": [
+    {
+     "pool_med": "2x Collection Level 1-14"
+    },
+    {
+     "pool_med": "3x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "1x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "4x Collection Level 486+ (Pool 3)"
+    },
+    {
+     "pool_med": "2x Recruit Season"
+    }
+   ],
+   "cost_med": "2.8",
+   "power_med": "3.3"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/blade/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/nightcrawler/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/beast/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/colleen-wing/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lady-sif/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/okoye/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/swarm/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bishop/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sword-master/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/apocalypse/"
+    }
+   ],
+   "name": "Discard Swarm",
+   "pool": [
+    {
+     "pool_med": "1x Collection Level 1-14"
+    },
+    {
+     "pool_med": "7x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "2x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "2x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "2.7",
+   "power_med": "3.8"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/wasp/",
+     "card_name": "Wasp"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/misty-knight/",
+     "card_name": "Misty Knight"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/squirrel-girl/",
+     "card_name": "Squirrel Girl"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mojo/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/debrii/",
+     "card_name": "Debrii"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mister-fantastic/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mystique/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/patriot/",
+     "card_name": "Patriot"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/wave/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/magik/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/doctor-doom/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/onslaught/",
+     "card_name": "Onslaught"
+    }
+   ],
+   "name": "Patriot",
+   "pool": [
+    {
+     "pool_med": "1x Collection Level 1-14"
+    },
+    {
+     "pool_med": "2x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "8x Collection Level 486+ (Pool 3)"
+    },
+    {
+     "pool_med": "1x Starter Card"
+    }
+   ],
+   "cost_med": "3",
+   "power_med": "2.4"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/the-hood/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bucky-barnes/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/carnage/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/black-cat/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/cerebro/",
+     "card_name": "Cerebro"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/mystique/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sword-master/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/hellcow/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/rockslide/",
+     "card_name": "Rockslide"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/captain-marvel/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/hela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/onslaught/"
+    }
+   ],
+   "name": "Cere6ro",
+   "pool": [
+    {
+     "pool_med": "3x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "1x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "8x Collection Level 486+ (Pool 3)"
+    }
+   ],
+   "cost_med": "3.5",
+   "power_med": "3.6"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Tier 4"
+  },
+  {
+   "tier": "Budget",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/ant-man/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/ebony-maw/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iceman/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/nightcrawler/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sunspot/",
+     "card_name": "Sunspot"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/okoye/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/ka-zar/",
+     "card_name": "Ka-Zar"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sandman/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/iron-man/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/klaw/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    }
+   ],
+   "name": "Sandman Aggro",
+   "pool": [
+    {
+     "pool_med": "2x Collection Level 1-14"
+    },
+    {
+     "pool_med": "3x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "5x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "1x Recruit Season"
+    },
+    {
+     "pool_med": "1x Starter Card"
+    }
+   ],
+   "cost_med": "2.8",
+   "power_med": "2.8"
+  },
+  {
+   "tier": "Budget",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/sunspot/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/okoye/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/scorpion/",
+     "card_name": "Scorpion"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/killmonger/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/storm/",
+     "card_name": "Storm"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/jubilee/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/shang-chi/",
+     "card_name": "Shang-Chi"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/spider-woman/",
+     "card_name": "Spider-Woman"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/professor-x/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/odin/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/the-infinaut/"
+    }
+   ],
+   "name": "Pool 2 Control",
+   "pool": [
+    {
+     "pool_med": "1x Collection Level 1-14"
+    },
+    {
+     "pool_med": "3x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "8x Collection Level 222-474 (Pool 2)"
+    }
+   ],
+   "cost_med": "3.8",
+   "power_med": "4.8"
+  },
+  {
+   "tier": "Budget",
+   "decks": [
+    {
+     "url": "https://marvelsnapzone.com/cards/ant-man/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/blade/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/nightcrawler/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/angela/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/cloak/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/lady-sif/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/okoye/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/swarm/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/bishop/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/sword-master/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/america-chavez/"
+    },
+    {
+     "url": "https://marvelsnapzone.com/cards/apocalypse/"
+    }
+   ],
+   "name": "Discard Swarm Pool 2",
+   "pool": [
+    {
+     "pool_med": "1x Collection Level 1-14"
+    },
+    {
+     "pool_med": "7x Collection Level 18-214 (Pool 1)"
+    },
+    {
+     "pool_med": "3x Collection Level 222-474 (Pool 2)"
+    },
+    {
+     "pool_med": "1x Recruit Season"
+    }
+   ],
+   "cost_med": "2.6",
+   "power_med": "3.8"
+  }
+ ]
+}
